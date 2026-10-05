@@ -4,7 +4,7 @@ A simple calculator application
 
 # ⚙️ Technologies
 - Python
-- Tkinter
+- Tkinter/customtkinter
 
 # 📔 What does it do?
 
@@ -45,6 +45,9 @@ the YouTube video learn Python- (https://youtu.be/mDKM-JtUhhc?si=OFGnHm-G1h4vvHk
 **📊 Document**
 - https://docs.python.org/3/library/tkinter.html
 - https://www.w3schools.com/python/ref_module_tkinter.asp
+  
+**customtkinter**
+-https://customtkinter.tomschimansky.com/
   
 **📕Books** 
 - Building Modern GUIs with tkinter and Python: Building user-friendly GUI applications with ease
